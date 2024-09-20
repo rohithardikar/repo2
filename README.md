@@ -5,3 +5,4 @@ http.createServer(function (req, res) {
   res.end('Hello, Docker.\n');
 }).listen(3000);
 console.log('Server running at http://0.0.0.0:3000/');
+mhart/alpine-node:4.4
